@@ -1,16 +1,40 @@
-## Hi there 👋
-
-<!--
-**cwanka/cwanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages
+  </h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+    <img
+      src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+      alt="Python"
+      width="110"
+      height="40"
+    />
+    <img
+      src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
+      alt="C++"
+      width="100"
+      height="40"
+    />
+    <img
+      src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+      alt="HTML"
+      width="100"
+      height="40"
+    />
+    <img
+      src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+      alt="CSS"
+      width="90"
+      height="40"
+    />
+    <img
+      src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+      alt="JavaScript"
+      width="120"
+      height="40"
+    />
+    <img
+      src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
+      alt="TypeScript"
+      width="120"
+      height="40"
+    />
+  </div>
